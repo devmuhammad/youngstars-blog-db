@@ -68,5 +68,22 @@
       "colortext": "#075985",
       "joined": true
     }
+  ],
+  "userchannels": [
+    {
+      "userid": 9,
+      "channelid": 3,
+      "id": 1
+    },
+    {
+      "userid": 9,
+      "channelid": 6,
+      "id": 2
+    },
+    {
+      "userid": 9,
+      "channelid": 5,
+      "id": 3
+    }
   ]
 }
